@@ -80,26 +80,3 @@ for i in range(ls.__len__()):
 # else:
 print("Thank You !")
 
-#out put:
-
-List of Students
-
-Name :  marirs
-RollNo :  1
-Marks1 :  100
-Marks2 :  100
-
-
-Name :  sowmiya
-RollNo :  2
-Marks1 :  95
-Marks2 :  95
-
-
-Name :  hsaka
-RollNo :  3
-Marks1 :  100
-Marks2 :  100
-
-
-Thank You !
