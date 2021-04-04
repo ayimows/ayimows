@@ -9,5 +9,3 @@ for num in list1:
 	# checking condition 
 	if num >= 0: 
 	print(num, end = " ") 
- 
- out put =11 0 45 66
